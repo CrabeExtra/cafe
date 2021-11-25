@@ -51,7 +51,7 @@ html {
     height: 700px;
     max-height: 700px;
     width: 1200px;
-    
+    background-image: url('./resources/img-mission-background.jpg');
     align-items: center;
     z-index: -1;
   }
@@ -87,6 +87,7 @@ html {
   }
   
   #loc {
+    background-image: url('./resources/img-locations-background.jpg');
     
     height: 500px;
     width: 1200px;
